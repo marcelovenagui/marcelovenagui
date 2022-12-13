@@ -1,8 +1,8 @@
 
 ## Olá, eu sou o Marcelo Venâncio!
 
-- 🤘🏻 Trabalhando como Dev Front-End
-- ⭐ Estudando React JS
+- 🤘🏻 Estudando Desenvolvimento Front-End!
+- ⭐ Atualmente estudando Bootstrap!
 - 😁 Sempre em busca de apredizado!
 
 ##
