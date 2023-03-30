@@ -1,8 +1,7 @@
 
 ## Olá, eu sou o Marcelo Venâncio!
 
-- 🤘🏻 Estudando Desenvolvimento Front-End!
-- ⭐ Atualmente estudando Bootstrap!
+- 🤘🏻 Desenvolvedor Flutter!
 - 😁 Sempre em busca de apredizado!
 
 ##
