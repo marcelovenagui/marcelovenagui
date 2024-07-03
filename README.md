@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Marcelo Venâncio!
 
-- 🤘🏻 Desenvolvedor Flutter!
+- 🤘🏻 Desenvolvedor Python!
 - 😁 Sempre em busca de apredizado!
 
 ##
